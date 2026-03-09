@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dba30dfe85a8e8c4f96501d3fe3e3dad, type: 3}
+  m_Name: ShopTable
+  m_EditorClassIdentifier: 
+  shopItems:
+  - ID: 1
+    Type: 1
+    Name: "\u751F\u547D\u836F\u6C34"
+    Description: 
+    Icon: {fileID: -1082314816, guid: 48e14a6075754df4f9dd11f4607479c2, type: 3}
+    Exhibition: {fileID: 7509405466983157950, guid: 8a3f983deebfb06429f0f7b497bb3ea0, type: 3}
+    Price: 20
+  - ID: 2
+    Type: 1
+    Name: "\u6CD5\u529B\u836F\u6C34"
+    Description: 
+    Icon: {fileID: -1503882550, guid: e5d6dbc0ea7d48342bc5c10ebedb01c6, type: 3}
+    Exhibition: {fileID: 3432954551258726291, guid: 8c74c6ca3a3d0024c911a7136a87bc9a, type: 3}
+    Price: 15

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54258064dc7fc4d409b20f691d349584, type: 3}
+  m_Name: InventoryTable
+  m_EditorClassIdentifier: 
+  materialList: []
+  potionList:
+  - ID: 1
+    Type: 1
+    Name: "\u751F\u547D\u836F\u6C34"
+    Description: 
+    Icon: {fileID: -1082314816, guid: 48e14a6075754df4f9dd11f4607479c2, type: 3}
+  - ID: 2
+    Type: 1
+    Name: "\u6CD5\u529B\u836F\u6C34"
+    Description: 
+    Icon: {fileID: -1503882550, guid: e5d6dbc0ea7d48342bc5c10ebedb01c6, type: 3}

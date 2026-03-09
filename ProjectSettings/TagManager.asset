@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Audio
+  - Npc
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3442745703
+    locked: 0
+  - name: FarScene
+    uniqueID: 414411313
+    locked: 0
+  - name: Ground
+    uniqueID: 1757113917
+    locked: 0
+  - name: Entity
+    uniqueID: 514754415
+    locked: 0
+  - name: Nearby
+    uniqueID: 1154021799
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

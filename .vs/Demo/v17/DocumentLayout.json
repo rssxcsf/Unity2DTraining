@@ -1,0 +1,1265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\bosshealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\bosshealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\frame\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\frame\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\combatsystem\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combatsystem\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|e:\\demo\\assets\\script\\visual\\fadeonoverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\visual\\fadeonoverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\questsystem\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\questsystem\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\questsystem\\questitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\questsystem\\questitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\Assets\\script\\QuestSystem\\QuestData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:Assets\\script\\QuestSystem\\QuestData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\questsystem\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\questsystem\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\questsystem\\questpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\questsystem\\questpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\entitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\cmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\dialoguesystem\\dialoguepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialoguesystem\\dialoguepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\garden_ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\garden_ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\combatsystem\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combatsystem\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\combatsystem\\barrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combatsystem\\barrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\bush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\bush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\entityfortesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\entityfortesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\visual\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\visual\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\combatsystem\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combatsystem\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\dialoguesystem\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialoguesystem\\dialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\audiosystem\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiosystem\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\megaspore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\megaspore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\sceneentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\sceneentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\gamemappanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemappanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\frame\\behaviortree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\frame\\behaviortree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\interface\\itemlootsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\interface\\itemlootsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\audiosystem\\scenesoundconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiosystem\\scenesoundconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\worlditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\worlditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\localdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\visual\\subtitlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\visual\\subtitlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\shopsystem\\shoppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shopsystem\\shoppanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\inventorysystem\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorysystem\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\GraphicEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\inventorysystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorysystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\ShopPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\ShopPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\statepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\statepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\inventorysystem\\inventorycell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorysystem\\inventorycell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\inventorysystem\\inventorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inventorysystem\\inventorypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\combatsystem\\icethornskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combatsystem\\icethornskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\combatsystem\\icethorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\combatsystem\\icethorn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\questsystem\\activequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\questsystem\\activequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\dialoguesystem\\npcdialoguesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dialoguesystem\\npcdialoguesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|E:\\Demo\\assets\\script\\entitybehaviour\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entitybehaviour\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EventManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EventManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\QuestData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\QuestData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\AudioPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\AudioPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\AudioPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\AudioPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\megaspore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\megaspore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EntityBehaviour\\BehaviourTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EntityBehaviour\\BehaviourTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\Barrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Barrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\EntityForTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\EntityForTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EntityBehaviour\\BehaviorTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EntityBehaviour\\BehaviorTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EntityBehaviour\\FSM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EntityBehaviour\\FSM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EntityForTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EntityForTesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\Parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\Parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\FadeOnOverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\FadeOnOverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\QuestSystem\\QuestUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\QuestSystem\\QuestUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\QuestSystem\\QuestGiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\QuestSystem\\QuestGiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EntityBehaviour\\Attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EntityBehaviour\\Attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EntityBehaviour\\Barrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EntityBehaviour\\Barrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\InventorySystem\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\InventorySystem\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\SceneEntityConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\SceneEntityConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\Portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\InventorySystem\\LocalData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\InventorySystem\\LocalData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\SubTitleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\SubTitleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Demo\\Assets\\script\\EntityBehaviour\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\EntityBehaviour\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestItem.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestItem.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\QuestItem.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestItem.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\QuestItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:11:40.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\QuestManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\QuestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:27:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Parallax.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\Visual\\Parallax.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Visual\\Parallax.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\Visual\\Parallax.cs",
+              "RelativeToolTip": "Assets\\script\\Visual\\Parallax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:15:09.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EntityForTesting.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\EntityForTesting.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\EntityForTesting.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\EntityForTesting.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\EntityForTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:32:41.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Portal.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Portal.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Portal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:43:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\UIManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\UIManager.cs",
+              "RelativeToolTip": "Assets\\script\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:13:14.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FadeOnOverlap.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\Visual\\FadeOnOverlap.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Visual\\FadeOnOverlap.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\Visual\\FadeOnOverlap.cs",
+              "RelativeToolTip": "Assets\\script\\Visual\\FadeOnOverlap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:29:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\CombatSystem\\Skill.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CombatSystem\\Skill.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\CombatSystem\\Skill.cs",
+              "RelativeToolTip": "Assets\\script\\CombatSystem\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:12:52.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FSM.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\frame\\FSM.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\frame\\FSM.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\frame\\FSM.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\frame\\FSM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:48:28.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossHealthBar.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\BossHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\BossHealthBar.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\BossHealthBar.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\BossHealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:24:29.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestData.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestData.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\QuestData.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestData.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\QuestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:22:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Enemy.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Enemy.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Enemy.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:35:25.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\EventManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\EventManager.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:24:36.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuestPanel.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\QuestPanel.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestPanel.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\QuestPanel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:47:36.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DIaloguePanel.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\DialogueSystem\\DIaloguePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\DialogueSystem\\DIaloguePanel.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\DialogueSystem\\DIaloguePanel.cs",
+              "RelativeToolTip": "Assets\\script\\DialogueSystem\\DIaloguePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:52:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\CombatSystem\\SkillManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CombatSystem\\SkillManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\CombatSystem\\SkillManager.cs",
+              "RelativeToolTip": "Assets\\script\\CombatSystem\\SkillManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:11:07.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Entity.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Entity.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Entity.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAYwCkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:46:38.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cmd.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\cmd.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\cmd.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\cmd.cs",
+              "RelativeToolTip": "Assets\\script\\cmd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:53:49.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Player.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Player.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUCAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:58:31.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bush.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Bush.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Bush.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Bush.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Bush.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAMwCsBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:40:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\EntityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\EntityManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\EntityManager.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\EntityManager.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAMwGMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:29:37.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Destructible.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Destructible.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Destructible.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Destructible.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Destructible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:41:14.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\CombatSystem\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CombatSystem\\Attack.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\CombatSystem\\Attack.cs",
+              "RelativeToolTip": "Assets\\script\\CombatSystem\\Attack.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:32:26.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "garden_ghost.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\garden_ghost.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\garden_ghost.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\garden_ghost.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\garden_ghost.cs",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAAAIcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:50:58.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Barrage.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\CombatSystem\\Barrage.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CombatSystem\\Barrage.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\CombatSystem\\Barrage.cs",
+              "RelativeToolTip": "Assets\\script\\CombatSystem\\Barrage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:07:18.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dialogue.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\DialogueSystem\\Dialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\DialogueSystem\\Dialogue.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\DialogueSystem\\Dialogue.cs",
+              "RelativeToolTip": "Assets\\script\\DialogueSystem\\Dialogue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:24:44.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\AudioSystem\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\AudioSystem\\AudioPlayer.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\AudioSystem\\AudioPlayer.cs",
+              "RelativeToolTip": "Assets\\script\\AudioSystem\\AudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:30:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BehaviorTree.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\frame\\BehaviorTree.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\frame\\BehaviorTree.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\frame\\BehaviorTree.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\frame\\BehaviorTree.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAowLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:29:24.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GameMapPanel.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\GameMapPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameMapPanel.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\GameMapPanel.cs",
+              "RelativeToolTip": "Assets\\script\\GameMapPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:10:25.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "megaspore.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\megaspore.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\megaspore.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\megaspore.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\megaspore.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAWwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:06:22.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SceneEntityConfig.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\SceneEntityConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\SceneEntityConfig.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\SceneEntityConfig.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\SceneEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:27:58.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemLootSystem.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\interface\\ItemLootSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\interface\\ItemLootSystem.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\interface\\ItemLootSystem.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\interface\\ItemLootSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvwMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:39:22.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SceneSoundConfig.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\AudioSystem\\SceneSoundConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\AudioSystem\\SceneSoundConfig.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\AudioSystem\\SceneSoundConfig.cs",
+              "RelativeToolTip": "Assets\\script\\AudioSystem\\SceneSoundConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:14:58.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WorldItem.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\WorldItem.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\WorldItem.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\WorldItem.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\WorldItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:26:07.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Menu.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\Menu.cs",
+              "RelativeToolTip": "Assets\\script\\Menu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:28:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LocalData.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\LocalData.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\LocalData.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\LocalData.cs",
+              "RelativeToolTip": "Assets\\script\\LocalData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAywEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:23:36.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\InventorySystem\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\InventorySystem\\InventoryManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\InventorySystem\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\script\\InventorySystem\\InventoryManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:58:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\InventorySystem\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\InventorySystem\\Inventory.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\InventorySystem\\Inventory.cs",
+              "RelativeToolTip": "Assets\\script\\InventorySystem\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:55:49.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Queen.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Queen.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Queen.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Queen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:28:08.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShopPanel.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\ShopSystem\\ShopPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ShopSystem\\ShopPanel.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\ShopSystem\\ShopPanel.cs",
+              "RelativeToolTip": "Assets\\script\\ShopSystem\\ShopPanel.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAASwI0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:16:42.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SubTitleManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\Visual\\SubTitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Visual\\SubTitleManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\Visual\\SubTitleManager.cs",
+              "RelativeToolTip": "Assets\\script\\Visual\\SubTitleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:58:09.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\script\\GameManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwCUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:53:03.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GraphicEditor.cs",
+              "DocumentMoniker": "E:\\Demo\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\GraphicEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\GraphicEditor.cs",
+              "ToolTip": "E:\\Demo\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\GraphicEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\GraphicEditor.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAhwJcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:04:09.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Item.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Item.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Item.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:57:29.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ShopPanel.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\ShopPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ShopPanel.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\ShopPanel.cs",
+              "RelativeToolTip": "Assets\\script\\ShopPanel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:56:15.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StatePanel.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\StatePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\StatePanel.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\StatePanel.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\StatePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:21:34.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InventoryCell.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\InventorySystem\\InventoryCell.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\InventorySystem\\InventoryCell.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\InventorySystem\\InventoryCell.cs",
+              "RelativeToolTip": "Assets\\script\\InventorySystem\\InventoryCell.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:21:12.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "InventoryPanel.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\InventorySystem\\InventoryPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\InventorySystem\\InventoryPanel.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\InventorySystem\\InventoryPanel.cs",
+              "RelativeToolTip": "Assets\\script\\InventorySystem\\InventoryPanel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAWwEUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:56:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ActiveQuest.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\ActiveQuest.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\ActiveQuest.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\ActiveQuest.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\ActiveQuest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:47:37.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SubTitleManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\SubTitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\SubTitleManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\SubTitleManager.cs",
+              "RelativeToolTip": "Assets\\script\\SubTitleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:12:18.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IceThorn.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\CombatSystem\\IceThorn.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CombatSystem\\IceThorn.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\CombatSystem\\IceThorn.cs",
+              "RelativeToolTip": "Assets\\script\\CombatSystem\\IceThorn.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwDgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:29:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IceThornSkill.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\CombatSystem\\IceThornSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CombatSystem\\IceThornSkill.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\CombatSystem\\IceThornSkill.cs",
+              "RelativeToolTip": "Assets\\script\\CombatSystem\\IceThornSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:23:13.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LocalData.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\InventorySystem\\LocalData.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\InventorySystem\\LocalData.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\InventorySystem\\LocalData.cs",
+              "RelativeToolTip": "Assets\\script\\InventorySystem\\LocalData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:55:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NpcDialogueSystem.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\DialogueSystem\\NpcDialogueSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\DialogueSystem\\NpcDialogueSystem.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\DialogueSystem\\NpcDialogueSystem.cs",
+              "RelativeToolTip": "Assets\\script\\DialogueSystem\\NpcDialogueSystem.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:24:59.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Snake.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Snake.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Snake.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:01:04.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Portal.cs",
+              "ToolTip": "E:\\Demo\\Assets\\Portal.cs",
+              "RelativeToolTip": "Assets\\Portal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:57:32.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UIBehaviour.cs",
+              "DocumentMoniker": "E:\\Demo\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "ToolTip": "E:\\Demo\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\UIBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T13:17:12.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SceneEntityConfig.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\SceneEntityConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\SceneEntityConfig.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\SceneEntityConfig.cs",
+              "RelativeToolTip": "Assets\\script\\SceneEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:47:23.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\InventorySystem\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\InventorySystem\\UIManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\InventorySystem\\UIManager.cs",
+              "RelativeToolTip": "Assets\\script\\InventorySystem\\UIManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:24:31.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Attack.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Attack.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Attack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:57:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Barrage.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Barrage.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\Barrage.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\Barrage.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\Barrage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:29:43.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EventManager.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EventManager.cs",
+              "RelativeToolTip": "Assets\\script\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:50:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioPlayer.cs",
+              "ToolTip": "E:\\Demo\\Assets\\AudioPlayer.cs",
+              "RelativeToolTip": "Assets\\AudioPlayer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:53:12.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Parallax.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\Parallax.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Parallax.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\Parallax.cs",
+              "RelativeToolTip": "Assets\\script\\Parallax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:28:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\AudioPlayer.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\AudioPlayer.cs",
+              "RelativeToolTip": "Assets\\script\\AudioPlayer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:15:25.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EntityForTesting.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\EntityForTesting.cs",
+              "RelativeDocumentMoniker": "Assets\\EntityForTesting.cs",
+              "ToolTip": "E:\\Demo\\Assets\\EntityForTesting.cs",
+              "RelativeToolTip": "Assets\\EntityForTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:09:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "QuestUI.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestUI.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\QuestUI.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestUI.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\QuestUI.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T08:05:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "QuestGiver.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestGiver.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestSystem\\QuestGiver.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestSystem\\QuestGiver.cs",
+              "RelativeToolTip": "Assets\\script\\QuestSystem\\QuestGiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:36:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "snake.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\snake.cs",
+              "RelativeDocumentMoniker": "Assets\\snake.cs",
+              "ToolTip": "E:\\Demo\\Assets\\snake.cs",
+              "RelativeToolTip": "Assets\\snake.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:36:00.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "QuestData.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\QuestData.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\QuestData.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\QuestData.cs",
+              "RelativeToolTip": "Assets\\script\\QuestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:08:41.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EntityForTesting.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityForTesting.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityForTesting.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityForTesting.cs",
+              "RelativeToolTip": "Assets\\script\\EntityForTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:57:17.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FSM.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\FSM.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\FSM.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\FSM.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\FSM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:51:33.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BehaviorTree.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\BehaviorTree.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\BehaviorTree.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\BehaviorTree.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\BehaviorTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T16:27:20.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Barrage.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\Barrage.cs",
+              "RelativeDocumentMoniker": "Assets\\Barrage.cs",
+              "ToolTip": "E:\\Demo\\Assets\\Barrage.cs",
+              "RelativeToolTip": "Assets\\Barrage.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAMwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:35:32.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FadeOnOverlap.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\FadeOnOverlap.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\FadeOnOverlap.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\FadeOnOverlap.cs",
+              "RelativeToolTip": "Assets\\script\\FadeOnOverlap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:48:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\NewBehaviourScript.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\script\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:47:39.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BehaviourTree.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\EntityBehaviour\\BehaviourTree.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\EntityBehaviour\\BehaviourTree.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\EntityBehaviour\\BehaviourTree.cs",
+              "RelativeToolTip": "Assets\\script\\EntityBehaviour\\BehaviourTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:56:03.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "megaspore.cs",
+              "DocumentMoniker": "E:\\Demo\\Assets\\script\\megaspore.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\megaspore.cs",
+              "ToolTip": "E:\\Demo\\Assets\\script\\megaspore.cs",
+              "RelativeToolTip": "Assets\\script\\megaspore.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:16:38.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

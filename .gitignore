@@ -1,0 +1,17 @@
+Library
+Temp
+Obj
+Logs
+UserSettings
+Packages
+ProjectSettingsProjectVersion.txt
+ProjectSettingsQualitySettings.asset
+ProjectSettingsTagManager.asset
+
+# 大文件类型（兜底）
+.dll
+.dylib
+.so
+.pdb
+.dsymutil
+ArtifactDB
